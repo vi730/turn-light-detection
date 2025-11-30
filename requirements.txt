@@ -1,0 +1,6 @@
+numpy>=1.21.0
+opencv-contrib-python>=4.5.0
+tensorflow>=2.8.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+moviepy>=1.0.3

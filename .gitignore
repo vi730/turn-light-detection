@@ -1,0 +1,39 @@
+# Data files
+data/
+*.rar
+*.zip
+
+# Model files  
+models/*.h5
+models/*.keras
+*.h5
+*.keras
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints
+
+# Environment
+.env
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Training outputs
+*.png
+*.jpg
+*.gif
+
+# But keep demo folder for README
+!demo/*.png
+!demo/*.jpg
+!demo/*.gif
+!demo/*.mp4
