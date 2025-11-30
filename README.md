@@ -104,6 +104,7 @@ python preprocess.py
 
 **How it works:**
 We use SIFT to match features between consecutive frames, align them, and compute the difference.
+
 *Result (Background Removed vs. Active Light):*
 
 ![SIFT Result](demo/SIFT_result.jpg)
